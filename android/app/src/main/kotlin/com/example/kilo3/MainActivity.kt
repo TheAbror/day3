@@ -1,0 +1,6 @@
+package com.example.kilo3
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
